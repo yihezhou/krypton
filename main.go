@@ -1,3 +1,3 @@
 package krypton_go
 
-"add line from feature branch"
+"add line from master branch"
