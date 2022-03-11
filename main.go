@@ -1,4 +1,8 @@
-package krypton_go
+package main
 
-"add line from master branch"
-"add another line from master branch"
+import "fmt"
+import "rsc.io/quote"
+
+func main() {
+	fmt.Println(quote.Go())
+}
